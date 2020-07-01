@@ -1,4 +1,4 @@
-//TechAgro
+//TechAgro Code
 
 #include <MD_TCS230.h> //Color Sensor Library
 #include <FreqCount.h> // FreqCount measures the frequency of a signal by counting the number of pulses during a fixed time
